@@ -6,7 +6,7 @@
 
 I’ve named mine: “autorentify-terraform-ecs”
 
-https://github.com/Silas-cloudspace/autorentify-terraform-ecs/tree/main
+https://github.com/kingsleyzikora/Car-Rental-Website.git
 
 ## Create the remote backend
 
